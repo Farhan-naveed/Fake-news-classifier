@@ -42,3 +42,14 @@ Unlike complex hybrid models or heavy deep learning transformers, this approach 
 * **Algorithm:** Linear Support Vector Classification (LinearSVC).
 * **Regularization:** L2 penalty (default) with `C=1.0`.
 * **Solver:** Liblinear (optimized for linear classification on large sparse datasets).
+### Why this model?
+
+We chose this model because it is the **"Professional Standard" for text classification"**.
+
+*It is not "too dumb" (like Naive Bayes).
+
+*It is not "too heavy" (like Neural Networks).
+
+*It is not "too slow" (like Random Forests).
+
+*It sits in the perfect middle ground: **fast, accurate, and capable of understanding the context of news articles**.
